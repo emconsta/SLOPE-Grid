@@ -18,10 +18,16 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-gem "minimal-mistakes-jekyll"
+
+gem "minimal-mistakes-jekyll", "4.26.2"
+gem "jekyll-archives", "~> 2.3.0"
+gem "faraday-retry", "~> 2.2.1"
+gem "jekyll-sass-converter", "~> 3.0.0"
+gem "i18n", "~> 1.14.6"
+
+# Add this for GitHub Actions compatibility
+gem "webrick", "~> 1.7"
 gem "base64"
-gem "jekyll-archives"
-gem "faraday-retry"
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
