@@ -24,8 +24,8 @@
 
 title: "My Project"
 description: "A short description of the project."
-baseurl: "/SLOPE-Grid.github.io" # If publishing to https://username.github.io/repository, you can set baseurl: "/repository"
-url: "https://emconsta.github.io/SLOPE-Grid.github.io/"
+url: "https://emconsta.github.io"
+baseurl: "/SLOPE-Grid"
 theme: minimal-mistakes-jekyll
 
 # Minimal Mistakes specific configuration (if using this theme)
