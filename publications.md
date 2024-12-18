@@ -1,8 +1,3 @@
----
-layout: single
-title: "Publications"
----
-
 # Publications
 
 * **Title 1** - Author, Journal, Year

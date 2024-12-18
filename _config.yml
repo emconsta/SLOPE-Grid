@@ -26,10 +26,11 @@ title: "My Project"
 description: "A short description of the project."
 url: "https://emconsta.github.io"
 baseurl: "/SLOPE-Grid"
-theme: minimal-mistakes-jekyll
+theme: minima
 
 # Minimal Mistakes specific configuration (if using this theme)
 plugins:
+  - jekyll-feed
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-archives
