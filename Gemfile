@@ -19,6 +19,11 @@ group :jekyll_plugins do
 end
 
 gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll"
+gem "base64"
+gem "jekyll-archives"
+gem "faraday-retry"
+
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

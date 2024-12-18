@@ -18,6 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+---
+BUNDLE_PATH: "vendor/bundle"
+
+
 title: "My Project"
 description: "A short description of the project."
 baseurl: "/SLOPE-Grid.github.io" # If publishing to https://username.github.io/repository, you can set baseurl: "/repository"
@@ -38,6 +42,7 @@ nav:
     url: /publications/
   - title: "Gallery"
     url: /gallery/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
