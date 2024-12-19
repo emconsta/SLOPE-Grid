@@ -1,0 +1,20 @@
+.site-footer {
+  width: 100%;
+  margin: 0;
+  padding: 20px 0;
+  background-color: #f8f9fa; /* Example background color */
+}
+
+.footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  white-space: nowrap;
+  max-width: 2800px; /* Optional: Center content within the footer */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-heading {
+  text-align: center;
+  margin-bottom: 10px;
+}
