@@ -22,9 +22,9 @@
 ##BUNDLE_PATH: "vendor/bundle"
 
 
-title: "My Project"
-description: "A short description of the project."
-url: "https://emconsta.github.io"
+title: "SciDAC OE-ASCR Partnership"
+description: ""
+url: "https://emconsta.github.io/SLOPE-Grid"
 baseurl: "/SLOPE-Grid"
 theme: minima
 

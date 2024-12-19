@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: default
 title: "Team"
+permalink: /team/
 ---
 
 # Our Team
