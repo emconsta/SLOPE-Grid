@@ -30,11 +30,10 @@ theme: minima
 
 # Minimal Mistakes specific configuration (if using this theme)
 plugins:
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-archives
-  - jekyll-sass-converter
+
 
 
 # Navigation
