@@ -9,8 +9,8 @@ permalink: /team/
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center; border: none;">
-      <img src="{{ site.baseurl }}/assets/images/member1.jpg" alt="By Napoleon Sarony - postcard" style="width: 150px; border-radius: 50%;">
-      <p>Cos</p>
+      <img src="{{ site.baseurl }}/assets/images/petra1.png" alt="Cosmin G. Petra" style="width: 150px; border-radius: 50%;">
+      <p>Cosmin G. Petra</p>
       <p>Project PI</p>
     </td>
     <td style="text-align: center; border: none;">
