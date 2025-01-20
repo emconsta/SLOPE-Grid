@@ -24,6 +24,7 @@
 
 title: "SciDAC OE-ASCR Partnership"
 author: "Lawrence Livermore National Lab -- Argonne National Lab -- University of Connecticut"
+# [qn] can we display logos easily instead of above text? 
 description: ""
 url: "https://emconsta.github.io/SLOPE-Grid"
 baseurl: "/SLOPE-Grid"
@@ -41,10 +42,10 @@ plugins:
 nav:
   - title: "Team"
     url: /team/
-  - title: "Publications"
-    url: /publications/
-  - title: "Gallery"
-    url: /gallery/
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "Gallery"
+#    url: /gallery/
 
 
 # Exclude from processing.

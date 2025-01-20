@@ -1,6 +1,6 @@
 .full-width-header {
   width: 100%;
-  background-color: #f8f9fa; /* Example background color */
+  background-color: #f8f9fa; /* Background color */
   padding: 20px 0;
   margin: 0;
 }
@@ -17,22 +17,22 @@
 
 .site-nav a {
   text-decoration: none;
-  color: #333; /* Adjust color as needed */
+  color: #333; /* Color */
 }
 
-
 .site-footer {
-  width: 100%;
-  margin: 0;
-  padding: 20px 0;
-  background-color: #f8f9fa; /* Example background color */
+  max-width: 1200px;   /* Footer width */
+  margin: 0 auto;      /* Center the footer horizontally */
+  padding: 20px 0;     /* Adjust vertical spacing */
+  background-color: #f8f9fa; /* Background color */
+  text-align: center;  /* Center-align text content */
 }
 
 .footer-col-wrapper {
   display: flex;
   justify-content: space-between;
   white-space: nowrap;
-  max-width: 2800px; /* Optional: Center content within the footer */
+  max-width: 800px; /* Center content within the footer */
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -42,4 +42,14 @@
   margin-bottom: 10px;
 }
 
+.footer-logos {
+  display: flex;
+  justify-content: center;  /* Center logos horizontally */
+  align-items: center;      /* Center logos vertically */
+  gap: 60px;                /* Space between logos*/
+}
 
+.footer-logos img.footer-logo {
+  height: 50px;  /* height */
+  width: auto;   /* aspect ratio */
+}

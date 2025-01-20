@@ -2,6 +2,7 @@
 layout: default
 title: "Gallery"
 permalink: /gallery/
+published: false
 ---
 
 # Gallery
