@@ -36,7 +36,7 @@ The team members have a long and outstanding track of research and developement 
   <tr>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/xingfuwu.jpg" alt="Xingfu Wu" style="width: 150px; border-radius: 50%;">
-      <p><a href=https://www.anl.gov/profile/xingfu-wu">Xingfu Wu</a></p>
+      <p><a href="https://www.anl.gov/profile/xingfu-wu">Xingfu Wu</a></p>
       <p>Principal Specialist, Computer Science, ANL</p>
     </td>
     <td style="text-align: center; border: none;">
@@ -60,7 +60,7 @@ The team members have a long and outstanding track of research and developement 
    <tr>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/iromeoruiz.jpg" alt="Irabiel Romero Ruiz" style="width: 150px; border-radius: 50%;">
-      <p><a href="https://appliedmath.ucmerced.edu/content/irabiel-romero>Irabiel Romero Ruiz</a></p>
+      <p><a href="https://appliedmath.ucmerced.edu/content/irabiel-romero">Irabiel Romero Ruiz</a></p>
       <p>PhD candidate in Applied Mathematics, UCM</p>
     </td>
     <td style="text-align: center; border: none;">
