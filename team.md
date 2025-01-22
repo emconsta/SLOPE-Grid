@@ -6,7 +6,7 @@ permalink: /team/
 
 # Our Team
 
-The team members have a long and outstanding track of research and developement in mathematical optimization, uncertainty quantification, machine learning, electrical power systems, and high-performance computing. This collaborative project involves researchers at Lawrence Livermore National Laboratories (LLNL) and Argonne National Laboratory (ANL) as well as professors and graduate students from University of Connecticut (UConn) and University of California Merced (UCM). This projects stems from the DOE <a href="https://www.exascaleproject.org/"> Exascale Computing Progra </a" and, also, leverages algorithms and software from the SciDAC <a href="https://scidac5-fastmath.lbl.gov">FASTMath</a> and <a href="https://rapids.lbl.gov">RAPIDS</a> institutes.
+The team members have a long and outstanding track of research and developement in mathematical optimization, uncertainty quantification, machine learning, electrical power systems, and high-performance computing. This collaborative project involves researchers at Lawrence Livermore National Laboratories (LLNL) and Argonne National Laboratory (ANL) as well as professors and graduate students from University of Connecticut (UConn) and University of California Merced (UCM). This projects stems from the DOE <a href="https://www.exascaleproject.org/"> Exascale Computing Program </a> and, also, leverages algorithms and software from the SciDAC <a href="https://scidac5-fastmath.lbl.gov">FASTMath</a> and <a href="https://rapids.lbl.gov">RAPIDS</a> institutes.
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
@@ -40,14 +40,14 @@ The team members have a long and outstanding track of research and developement 
       <p>Principal Specialist, Computer Science, ANL</p>
     </td>
     <td style="text-align: center; border: none;">
-      <img src="{{ site.baseurl }}/assets/images/member3.jpg" alt="Nai-Yuan Chiang" style="width: 150px; border-radius: 50%;">
+      <img src="{{ site.baseurl }}/assets/images/headshot_generic.png" alt="Nai-Yuan Chiang" style="width: 150px; border-radius: 50%;">
       <p>Nai-Yuan Chiang</p>
       <p>Computer Scientist, LLNL</p>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; border: none;">
-      <img src="{{ site.baseurl }}/assets/images/member3.jpg" alt="Claudio Santiago" style="width: 150px; border-radius: 50%;">
+      <img src="{{ site.baseurl }}/assets/images/headshot_generic.png" alt="Claudio Santiago" style="width: 150px; border-radius: 50%;">
       <p>Claudio Santiago</p>
       <p>Computer Scientist, LLNL</p>
     </td>
