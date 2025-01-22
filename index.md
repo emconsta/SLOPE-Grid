@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# <span style="color: ;">Scalable Learning and Optimization for Secure and Economic Grid Operations</span>
+# <span style="color: ;">Scalable Learning and Optimization for Secure and Economic Grid Operations (SLOPE-Grid) </span>
 
 
 Secure and economic operation of the U.S. power grid with high levels of variable renewable energy poses a major challenge to grid operators and is a bottleneck towards the nation’s commitment to 100% clean electricity. Power demand and supply are increasingly volatile with the surge of renewable energy resources, such as solar and wind farms, and new types of loads such as electrical vehicles, which have put the stability and security of operating the power grid at an inflection point. Grid contingencies, which include transmission failures, generation outages, and adversarial threats, pose additional security risks and are also more pervasive due to more frequent extreme weather events. Balancing economics and security has shifted from challenging to intractable for the current state of the art due to the need to consider high- fidelity stability simulations, complex contingency assessment, and a large number of what-if contingency scenarios simultaneously in the grid’s operational control loop.
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/diagram-approach-overview.png" alt="SLOPE-Grid overview" style="width:100%">
-  <figcaption>Overview diagram of the SLOPE-Grid project's approach.</figcaption>
+  <figcaption><b>Figure 1.</b>Overview diagram of the SLOPE-Grid project's approach.</figcaption>
 </figure>
 
 
