@@ -9,7 +9,7 @@ Secure and economic operation of the U.S. power grid with high levels of variabl
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/diagram-approach-overview.png" alt="SLOPE-Grid overview" style="width:100%">
-  <figcaption><b>Figure 1.</b>Overview diagram of the SLOPE-Grid project's approach.</figcaption>
+  <figcaption style="text-align: center; margin-top: 8px;">Overview diagram of the SLOPE-Grid project's approach.</figcaption>
 </figure>
 
 
